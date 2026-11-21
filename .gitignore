@@ -1,0 +1,12 @@
+kit/
+out/
+out2/
+*.tar.gz
+*.log
+BUILD-BRIEF.md
+REWRITE-BRIEF.md
+FIX-BRIEF.md
+prompt.txt
+transcripts.tar.gz
+muse-usage*.jsonl
+node_modules/
